@@ -37,12 +37,12 @@ kutubxona/
 
 ### 1. Loyihani ko'chirib oling:
 ```bash
-git clone https://github.com/Mavludaxon-jamoasi/loyiha_ishi
+git clone https://github.com/QizlarTeam/loyiha
 ```
 
 ### 2. Loyiha papkasiga kiring:
 ```bash
-cd kutubxona
+cd loyiha_n
 ```
 
 ### 3. Dasturni ishga tushiring:
