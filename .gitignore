@@ -1,0 +1,15 @@
+# Python kompilyatsiya fayllari (keraksiz)
+__pycache__/
+*.pyc
+
+# Virtual muhit (kutubxonalar turadigan og'ir papka)
+.venv/
+venv/
+env/
+
+# IDE sozlamalari (PyCharm/IntelliJ fayllari)
+.idea/
+
+# Operatsion tizim fayllari
+.DS_Store
+Thumbs.db
